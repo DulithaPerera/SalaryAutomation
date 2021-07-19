@@ -1,0 +1,51 @@
+Each employee in Company ABC will be paid an additional amount other than the basic salary, through the allowances offered by the company, overtime (OT) and On-call . On last day of each month details of these additional work will be saved to a CSV file  in a given location (~/data/salary/<name_date>.csv) of the environment/server employee owns (Each employee owns an environment/server). Finance Department of the ABC company needs your support  to automate the task of generating salary slips and notifying relevant stakeholders.
+
+ a)      Design a shell script that will perform following tasks,
+
+-            Copy the CSV file from each employees environment/server to a management machine/server and read the files to extract required data to generate salary slips.
+
+-            If the file does not exist in the given location, leave a message/reminder for the user so that he/she can see it immediately  when login to the environment/server next time.
+
+-            Read the CSV file which contains the information about the employees and the salary details (Name, E-mail, OT hours, Allowances, etc.)
+
+-            Calculate the Salary for individual employee from the information in the CSV file (You can include estimated values for this)
+
+-            Create a proper salary slip which contains the details of the allowances, Over Time(OT) details etc.
+
+-            After creating the salary slip, e-mail it to the relevant employee, with a relevant HTML body (Ex : Tabular format)
+
+-            Send total salary report of all the employees to the manager via an e-mail (Include a relevant HTML body for the e-mail)
+
+-            Managers e-mail must contain following details in a suitable notation,
+
+·         How many hours each individual employee has marked as OT  - In RED colour
+
+·         How much each individual paid as allowances - In Amber colour
+
+·         Each employees net pay - In Green colour
+
+ b)      Non-functional requirements
+
+-            Script must be able to give out a salary REPORT at any past date when requested by running the script (Can use parameters like “date” with the script).  Report can be shown using a  HTML view/on Command Line Interface or by a file saved in the machine
+
+-            It should be run on 25th of each month and send out the e-mails to the employees automatically
+
+-            A proper error logging mechanism  should also be included in the solution
+
+ c)       Technical requirements
+
+-            Use an appropriate DATABASE to save data for this purpose
+
+-            Script must be configurable if any new employee is added
+
+-            Script need to have acceptable level of comments
+
+-            Script need to have sufficient error handling and defined error levels
+
+ d)      Test setup
+
+-            Create a virtual environment with 3 servers where one of them is an admin server
+
+-            Linux version needs to be a recent version (Ex : RH7, Centos 7 etc. )
+
+-            MySQL or relevant Database installed and configured to perform above mentioned tasks

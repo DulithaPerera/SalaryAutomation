@@ -1,0 +1,579 @@
+12-10-2020 09:07:51 attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 09:07:54 attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 09:08:13 attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 09:08:14 attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:05:04 attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:05:06 attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:18:56	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:18:57	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:20:38	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:20:39	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:21:16	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:21:17	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:27:31	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:27:32	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:28:20	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:28:21	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:29:04	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:29:05	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:29:37	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:29:38	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:30:39	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:30:39	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:30:40	program stopped due to the unavailability of any successful salary info file copyies
+12-10-2020 10:31:13	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_12_10_2020.csv: No such file or directory
+12-10-2020 10:31:14	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_12_10_2020.csv: No such file or directory
+12-10-2020 10:31:14	program stopped creating salary slips due to the unavailability of any successful salary info file copyies
+	user2_12_10_2020_SalarySlip.html creation failed
+	user1_12_10_2020_SalarySlip.html creation failed
+12-10-2020 21:50:00	Saving data in database Failed: for /home/devops/Desktop/linux_exercises/scripting/SalaryAutomation/SalaryInfo/user1/user1_12_10_2020.csv : ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+12-10-2020 21:50:00	Saving data in database Failed: for /home/devops/Desktop/linux_exercises/scripting/SalaryAutomation/SalaryInfo/user2/user2_12_10_2020.csv : ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+12-10-2020 21:52:23	Saving data in database Failed: for /home/devops/Desktop/linux_exercises/scripting/SalaryAutomation/SalaryInfo/user1/user1_12_10_2020.csv : mysql: [ERROR] mysql: option '-e' requires an argument
+12-10-2020 21:52:23	Saving data in database Failed: for /home/devops/Desktop/linux_exercises/scripting/SalaryAutomation/SalaryInfo/user2/user2_12_10_2020.csv : mysql: [ERROR] mysql: option '-e' requires an argument
+12-10-2020 21:55:07	Saving data in database Failed: for /home/devops/Desktop/linux_exercises/scripting/SalaryAutomation/SalaryInfo/user1/user1_12_10_2020.csv : ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+12-10-2020 21:55:07	Saving data in database Failed: for /home/devops/Desktop/linux_exercises/scripting/SalaryAutomation/SalaryInfo/user2/user2_12_10_2020.csv : ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+14-10-2020 00:49:24	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_14_10_2020.csv: No such file or directory
+14-10-2020 00:49:27	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_14_10_2020.csv: No such file or directory
+14-10-2020 00:49:28	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+14-10-2020 00:53:21	mailing user1_14_10_2020_SalarySlip.html to 3dip123456@gmail.com failed : 
+14-10-2020 00:53:28	mailing user2_14_10_2020_SalarySlip.html to dulitha_perera@yahoo.com failed : 
+14-10-2020 01:00:48	mailing user1_14_10_2020_SalarySlip.html to 3dip123456@gmail.com failed : 
+14-10-2020 01:00:54	mailing user2_14_10_2020_SalarySlip.html to dulitha_perera@yahoo.com failed : 
+03-11-2020 19:03:07	Saving data in database Failed: 0002 and user1 are not the correct pair in /home/devops/Desktop/linux_exercises/scripting/SalaryAutomation/SalaryInfo/user1/user1_03_11_2020.csv
+03-11-2020 19:03:07	Saving data in database Failed: 0001 and user2 are not the correct pair in /home/devops/Desktop/linux_exercises/scripting/SalaryAutomation/SalaryInfo/user2/user2_03_11_2020.csv
+03-11-2020 22:58:57	mailing user1_03_11_2020_SalarySlip.html to 3dip123456@gmail.com failed : mail: cannot send message: Process exited with a non-zero status
+03-11-2020 22:59:07	mailing user2_03_11_2020_SalarySlip.html to dulitha_perera@yahoo.com failed : mail: cannot send message: Process exited with a non-zero status
+04-11-2020 19:15:04	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: scp: /home/user1/data/salary/user1_04_11_2020.csv: No such file or directory
+04-11-2020 19:15:11	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: scp: /home/user2/data/salary/user2_04_11_2020.csv: No such file or directory
+04-11-2020 19:15:12	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+06-11-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+06-11-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+06-11-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+07-11-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+07-11-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+07-11-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+08-11-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+08-11-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+08-11-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+09-11-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+09-11-2020 23:36:35	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+09-11-2020 23:38:46	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+13-11-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+13-11-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+13-11-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+17-11-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-11-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+17-11-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+18-11-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+18-11-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+18-11-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+20-11-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+20-11-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+20-11-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+22-11-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+22-11-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+22-11-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+23-11-2020 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+23-11-2020 23:36:32	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+23-11-2020 23:38:43	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+24-11-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+24-11-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+24-11-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+25-11-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+25-11-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+25-11-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+26-11-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+26-11-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+26-11-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+27-11-2020 23:32:13	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+27-11-2020 23:36:35	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+27-11-2020 23:38:46	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+28-11-2020 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+28-11-2020 23:36:32	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+28-11-2020 23:38:43	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+04-12-2020 00:03:44	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+04-12-2020 00:08:06	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+04-12-2020 00:10:17	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+04-12-2020 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+04-12-2020 23:36:32	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+04-12-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-12-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+09-12-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+09-12-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+09-12-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+10-12-2020 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+10-12-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+10-12-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+11-12-2020 23:33:53	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+11-12-2020 23:38:15	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+11-12-2020 23:40:26	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+12-12-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+12-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+12-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+13-12-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+13-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+13-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+14-12-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+14-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+14-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+15-12-2020 23:30:02	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+15-12-2020 23:30:02	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+15-12-2020 23:30:02	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+17-12-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+17-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+18-12-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+18-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+18-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+20-12-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+20-12-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+20-12-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+21-12-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+21-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+21-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+22-12-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+22-12-2020 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+22-12-2020 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+23-12-2020 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+23-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+23-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+28-12-2020 23:40:05	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+28-12-2020 23:40:05	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+28-12-2020 23:40:05	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+29-12-2020 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+29-12-2020 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+29-12-2020 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+04-01-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+04-01-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+04-01-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-01-2021 23:32:13	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-01-2021 23:36:35	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-01-2021 23:38:46	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+07-01-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+07-01-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+07-01-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+09-01-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+09-01-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+09-01-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+12-01-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+12-01-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+12-01-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+14-01-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+14-01-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+14-01-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+15-01-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-01-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-01-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+17-01-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+21-01-2021 23:30:01	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+21-01-2021 23:30:01	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+21-01-2021 23:30:01	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+22-01-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+22-01-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+22-01-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+26-01-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+26-01-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+26-01-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+27-01-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+27-01-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+27-01-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+28-01-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+28-01-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+28-01-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+30-01-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+30-01-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+30-01-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+31-01-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+31-01-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+31-01-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+02-02-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+02-02-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+02-02-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-02-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-02-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-02-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+07-02-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+07-02-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+07-02-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+08-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+08-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+08-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+09-02-2021 23:59:24	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+09-02-2021 23:59:24	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+09-02-2021 23:59:24	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+10-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+10-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+10-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+12-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+12-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+12-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+13-02-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+13-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+13-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+14-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+14-02-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+14-02-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+15-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+15-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+15-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+17-02-2021 00:55:07	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-02-2021 00:59:29	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+17-02-2021 01:01:40	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+17-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+17-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+18-02-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+18-02-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+18-02-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+19-02-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+19-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+19-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+20-02-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+20-02-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+20-02-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+21-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+21-02-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+21-02-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+22-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+22-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+22-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+23-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+23-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+23-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+24-02-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+24-02-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+24-02-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+25-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+25-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+25-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+27-02-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+27-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+27-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+28-02-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+28-02-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+28-02-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+01-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+01-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+01-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+03-03-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+03-03-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+03-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+04-03-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+04-03-2021 23:36:32	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+04-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-03-2021 23:32:13	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-03-2021 23:36:35	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-03-2021 23:38:46	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+06-03-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+06-03-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+06-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+07-03-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+07-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+07-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+08-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+08-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+08-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+10-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+10-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+10-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+11-03-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+11-03-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+11-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+12-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+13-03-2021 01:15:49	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+13-03-2021 01:18:00	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+13-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+13-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+13-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+14-03-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+14-03-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+14-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+16-03-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+16-03-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+16-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+18-03-2021 23:32:13	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+18-03-2021 23:36:35	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+18-03-2021 23:38:46	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+19-03-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+19-03-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+19-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+21-03-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+21-03-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+21-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+22-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+22-03-2021 23:36:35	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+22-03-2021 23:38:46	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+23-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+23-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+23-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+24-03-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+24-03-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+24-03-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+25-03-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+25-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+25-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+26-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+26-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+26-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+27-03-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+27-03-2021 23:36:32	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+27-03-2021 23:38:43	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+29-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+29-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+29-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+30-03-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+30-03-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+30-03-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+02-04-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+02-04-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+02-04-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+03-04-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+03-04-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+03-04-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-04-2021 08:22:43	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-04-2021 08:27:04	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-04-2021 08:29:15	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-04-2021 23:48:24	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-04-2021 23:48:24	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-04-2021 23:48:24	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+06-04-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+06-04-2021 23:36:32	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+06-04-2021 23:38:43	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+07-04-2021 23:30:01	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+07-04-2021 23:30:01	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+07-04-2021 23:30:01	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+09-04-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+09-04-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+09-04-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+10-04-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+10-04-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+10-04-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+12-04-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+12-04-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+12-04-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+15-04-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+15-04-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+15-04-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+17-04-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-04-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+17-04-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+20-04-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+20-04-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+20-04-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+21-04-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+21-04-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+21-04-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+23-04-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+23-04-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+23-04-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+29-04-2021 23:30:01	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+29-04-2021 23:30:01	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+29-04-2021 23:30:01	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+30-04-2021 23:30:01	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+30-04-2021 23:30:01	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+30-04-2021 23:30:01	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+04-05-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+04-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+04-05-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-05-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-05-2021 23:38:44	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+07-05-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+07-05-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+07-05-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+08-05-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+08-05-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+08-05-2021 23:38:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+09-05-2021 23:31:04	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+09-05-2021 23:33:11	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+09-05-2021 23:34:14	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+11-05-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+11-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+11-05-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+11-05-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+15-05-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+15-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+15-05-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+15-05-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+16-05-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+16-05-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+16-05-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+16-05-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+17-05-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-05-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+17-05-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+17-05-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+19-05-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+19-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+19-05-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+19-05-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+22-05-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+22-05-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+22-05-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+22-05-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+25-05-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+25-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+25-05-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+25-05-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+26-05-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+26-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+26-05-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+26-05-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+27-05-2021 23:30:01	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+27-05-2021 23:30:01	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+27-05-2021 23:30:01	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+27-05-2021 23:30:01	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+28-05-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+28-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+28-05-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+28-05-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+31-05-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+31-05-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+31-05-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+31-05-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+02-06-2021 01:58:29	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+02-06-2021 02:02:51	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+02-06-2021 02:07:13	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+02-06-2021 02:09:25	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+02-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+02-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+02-06-2021 23:40:57	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+02-06-2021 23:43:08	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+03-06-2021 23:30:01	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+03-06-2021 23:30:01	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+03-06-2021 23:30:01	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+03-06-2021 23:30:01	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+05-06-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+07-06-2021 00:31:21	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+07-06-2021 00:31:21	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+07-06-2021 00:31:21	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+07-06-2021 00:31:21	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+07-06-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+07-06-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+07-06-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+07-06-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+08-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+08-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+08-06-2021 23:40:57	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+08-06-2021 23:43:08	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+09-06-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+09-06-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+09-06-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+09-06-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+10-06-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+10-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+10-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+10-06-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+11-06-2021 23:32:13	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+11-06-2021 23:36:35	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+11-06-2021 23:40:57	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+11-06-2021 23:43:08	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+12-06-2021 23:30:01	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+12-06-2021 23:30:01	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+12-06-2021 23:30:01	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+12-06-2021 23:30:01	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+13-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+13-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+13-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+13-06-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+15-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+15-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+16-06-2021 00:02:34	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+16-06-2021 00:04:45	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+16-06-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+16-06-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+16-06-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+16-06-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+17-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+17-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+17-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+17-06-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+18-06-2021 23:32:15	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+18-06-2021 23:36:40	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+18-06-2021 23:41:02	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+18-06-2021 23:43:14	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+19-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+19-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+19-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+19-06-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+20-06-2021 23:43:25	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+20-06-2021 23:43:26	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+20-06-2021 23:43:26	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+20-06-2021 23:43:26	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+22-06-2021 23:32:13	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+22-06-2021 23:36:35	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+22-06-2021 23:40:57	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+22-06-2021 23:43:08	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+24-06-2021 01:48:20	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+24-06-2021 01:52:42	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+24-06-2021 01:57:04	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+24-06-2021 01:59:15	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+27-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+27-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+27-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+27-06-2021 23:43:08	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+28-06-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+28-06-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+28-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+28-06-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+29-06-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+29-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+29-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+29-06-2021 23:43:08	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+30-06-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+30-06-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+30-06-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+30-06-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+02-07-2021 00:20:30	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+02-07-2021 00:24:53	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+02-07-2021 00:29:15	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+02-07-2021 00:31:26	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+02-07-2021 23:36:56	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+02-07-2021 23:36:56	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+02-07-2021 23:36:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+02-07-2021 23:36:56	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+05-07-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+05-07-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+05-07-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+05-07-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+06-07-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+06-07-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+06-07-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+06-07-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+08-07-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+08-07-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+08-07-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+08-07-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+09-07-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+09-07-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+09-07-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+09-07-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+10-07-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+10-07-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+10-07-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+10-07-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+11-07-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+11-07-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+11-07-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+11-07-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+12-07-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+12-07-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+13-07-2021 07:20:08	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+13-07-2021 07:22:19	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+13-07-2021 23:32:11	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+13-07-2021 23:36:33	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+13-07-2021 23:40:55	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+13-07-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+14-07-2021 23:32:10	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+14-07-2021 23:36:32	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+14-07-2021 23:40:54	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+14-07-2021 23:43:06	program stopped creating salary slips due to the unavailability of any successful salary info file copies
+15-07-2021 23:32:12	attempt to copy monthly salary file from user1@192.168.100.4 was unsuccessful: 
+15-07-2021 23:36:34	attempt to copy monthly salary file from user2@192.168.100.3 was unsuccessful: 
+15-07-2021 23:40:56	attempt to copy monthly salary file from mom@192.168.45 was unsuccessful: 
+15-07-2021 23:43:07	program stopped creating salary slips due to the unavailability of any successful salary info file copies
